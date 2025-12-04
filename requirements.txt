@@ -1,0 +1,17 @@
+contextily
+folium
+geopandas
+google
+jupyter
+mapclassify
+matplotlib
+nbformat
+numpy
+openpyxl
+pandas
+plotly
+scipy
+seaborn
+shapely
+scikit-learn
+xyzservices
